@@ -9,7 +9,7 @@ Things I code with:
 
 - :yawning_face:Status:***An Undergraduate studies in Robotics Engineering***
 - :robot:Dream:~~Become a full-stack robot engineer~~
-- :dizzy_face:Now leaning Python prepareing ROS2 docker and deep learning
+- :dizzy_face:Now leaning Quadcopter prepareing freeRTOS and machine learning
 - :question:email to me - fenglinglin1031@gmail.com
 - :dizzy_face:~~I don't check my email most of the time~~
 ---
